@@ -1,5 +1,5 @@
 # first_app
 
-A new Flutter project.
+Primeira tela em Flutter
 
 
